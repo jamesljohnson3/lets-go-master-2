@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.22.1",
+    "@apideck/components": "^0.12.3",
+    "@apideck/node": "^2.4.0",
+    "@apideck/vault-js": "^1.0.0",
     "@builder.io/react": "^2.0.1",
     "@clerk/clerk-react": "^4.5.3",
     "@clerk/nextjs": "^4.6.5",
