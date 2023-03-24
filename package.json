@@ -10,10 +10,10 @@
     "postinstall": "prisma generate"
   },
   "dependencies": {
-    "@auth0/auth0-spa-js": "^1.22.1",
     "@apideck/components": "^0.12.3",
     "@apideck/node": "^2.4.0",
     "@apideck/vault-js": "^1.0.0",
+    "@auth0/auth0-spa-js": "^1.22.1",
     "@builder.io/react": "^2.0.1",
     "@clerk/clerk-react": "^4.5.3",
     "@clerk/nextjs": "^4.6.5",
@@ -60,11 +60,13 @@
     "zustand": "^4.1.4"
   },
   "devDependencies": {
+    "@types/react": "^18.0.28",
     "autoprefixer": "^10.4.1",
     "eslint": "^8.14.0",
     "eslint-config-next": "^12.1.6",
     "postcss": "^8.4.5",
     "prisma": "^3.10.0",
-    "tailwindcss": "^3.0.11"
+    "tailwindcss": "^3.0.11",
+    "typescript": "^5.0.2"
   }
 }
