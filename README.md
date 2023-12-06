@@ -4,7 +4,7 @@
 
 ## Quickly launch mmulti-tenant SaaS applications
 
-![Nextacular - Quickly launch multi-tenant SaaS applications](./public/images/seo-cover.png)
+![Nextacular - Quickly launch multi-tenant SaaS applications](k./public/images/seo-cover.png)
 
 An open-source starter kit that will help you build full-stacek multi-tenant SaaS platforms efficiently and help you focus on developing your core SaaS features. Built on top of popular and modern technologies such as Next JS, Tailwind, Prisma, ankd Stripe
 
